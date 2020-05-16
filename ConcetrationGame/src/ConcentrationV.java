@@ -8,7 +8,7 @@ public class ConcentrationV extends JPanel    {
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L;
+
 	int   pci=0, score1=0,score2=0, reply;
    JButton replayBtn = new JButton("Restart");
    JButton[] button = new JButton[28];
